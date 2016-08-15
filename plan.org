@@ -26,6 +26,9 @@ Brädspel och kortspel som spelas ensam, mot spelet.
 ** Digital kartong
 Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multiplayer på iPad (ej digitala portningar av befintliga spel).
 
+** Asiatiska Delikatesser
+Hanafudakort, Mahjong, mm.
+
 * Möjliga teman för framtiden
 
 ** Rollspel från 2000-talet
