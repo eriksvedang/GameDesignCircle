@@ -54,7 +54,7 @@ Väldigt gamla spel.
 - Det kungliga spelet från Ur
 
 ** Tärningsspel
-...som inte suger
+...som kräver skicklighet.
 
 - Qwixx
 - 10000
@@ -66,6 +66,13 @@ Spel som spelas med saker man hittar vid bardisken eller på restaurangbordet.
 - Flip!
 - Skulls
 - Hetsjakt
+
+** Parspel
+Co-op versus.
+
+- Tichu
+- Bridge
+- Codenames
 
 * Möjliga teman för framtiden
 Kom gärna med egna önskemål och idéer så försöker vi få till det!
