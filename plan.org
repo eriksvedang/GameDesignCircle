@@ -16,9 +16,14 @@ Spel som endast kräver papper och penna.
 
 - Sprouts
 - Cutting Corners
+- Hold that line
 
 ** Kort, kort, kort
 Ovanliga spel med en vanlig kortlek.
+
+- GOPS
+- Mate
+- Myre
 
 ** Schackbräde utan Schack
 Ett gäng underliga spel som spelas på 8 x 8 rutor.
@@ -27,6 +32,7 @@ Ett gäng underliga spel som spelas på 8 x 8 rutor.
 - Lines of Action 
 - Knight Chase
 - Ironclad
+- Domain
 
 ** För eremiten
 Brädspel och kortspel som spelas ensam, mot spelet.
@@ -43,8 +49,24 @@ Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multip
 - Go
 
 ** Uråldrigheter
+Väldigt gamla spel.
+
 - Hnefatafl
 - Det kungliga spelet från Ur
+
+** Tärningsspel
+...som inte suger
+
+- Qwixx
+- 10000
+- Liar's Dice
+
+** Göra stan
+Spel som spelas med saker man hittar vid bardisken eller på restaurangbordet.
+
+- Flip!
+- Skulls
+- Hetsjakt
 
 * Möjliga teman för framtiden
 
@@ -53,9 +75,6 @@ T.ex. Fiasco
 
 ** Twine
 Avantgardistiska textäventyr
-
-** Tärningsspel
-...som inte suger
 
 ** BYOG
 Ta med egna prototyper och experiment för speltest
