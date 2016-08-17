@@ -6,7 +6,6 @@
 * Upplägg
 - Varje tillfälle börjar med en liten presentation av de spel vi ska studera (oftast 3 - 5 st)
 - Deltagarna delar upp sig och försöker hinna spela alla spel (de flesta kommer vara rätt korta)
-- Vill man experimentera med egna regelvariationer eller nya spel uppmuntras detta
 - Mot slutet samlas vi och diskuterar våra upplevelser, styrkor/svagheter med spelen, etc, etc.
 
 * Planerade tillfällen
@@ -69,6 +68,7 @@ Spel som spelas med saker man hittar vid bardisken eller på restaurangbordet.
 - Hetsjakt
 
 * Möjliga teman för framtiden
+Kom gärna med egna önskemål och idéer så försöker vi få till det!
 
 ** Rollspel från 2000-talet
 T.ex. Fiasco
@@ -79,4 +79,3 @@ Avantgardistiska textäventyr
 ** BYOG
 Ta med egna prototyper och experiment för speltest
 
-Kom gärna med egna önskemål och idéer så försöker vi få till det!
