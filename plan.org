@@ -14,11 +14,19 @@
 ** Ett halvt ark papper
 Spel som endast kräver papper och penna.
 
+- Sprouts
+- Cutting Corners
+
 ** Kort, kort, kort
 Ovanliga spel med en vanlig kortlek.
 
 ** Schackbräde utan Schack
 Ett gäng underliga spel som spelas på 8 x 8 rutor.
+
+- Focus
+- Lines of Action 
+- Knight Chase
+- Ironclad
 
 ** För eremiten
 Brädspel och kortspel som spelas ensam, mot spelet.
@@ -26,8 +34,17 @@ Brädspel och kortspel som spelas ensam, mot spelet.
 ** Digital kartong
 Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multiplayer på iPad (ej digitala portningar av befintliga spel).
 
+- Chesh
+- Glitch Tank
+
 ** Asiatiska delikatesser
-Hanafudakort, Mahjong, mm.
+- Hanafudakort
+- Mahjong
+- Go
+
+** Uråldrigheter
+- Hnefatafl
+- Det kungliga spelet från Ur
 
 * Möjliga teman för framtiden
 
