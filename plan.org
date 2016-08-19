@@ -76,7 +76,7 @@ Spel som spelas med saker man hittar vid bardisken eller på restaurangbordet.
 Co-op versus.
 
 - Tichu
-- Bridge
+- Bridge (kan få ett eget tillfälle)
 - Codenames
 
 * Möjliga teman för framtiden
