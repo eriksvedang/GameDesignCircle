@@ -36,6 +36,10 @@ Ett gäng underliga spel som spelas på 8 x 8 rutor.
 ** För eremiten
 Brädspel och kortspel som spelas ensam, mot spelet.
 
+- Friday
+- Bowling Solitaire
+- Space Hulk: Death Angel
+
 ** Digital kartong
 Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multiplayer på iPad (ej digitala portningar av befintliga spel).
 
@@ -59,6 +63,7 @@ Väldigt gamla spel.
 - Qwixx
 - 10000
 - Liar's Dice
+- Decathlon
 
 ** Göra stan
 Spel som spelas med saker man hittar vid bardisken eller på restaurangbordet.
