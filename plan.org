@@ -1,39 +1,42 @@
 * Beskrivning
-Speldesigncirkelns syfte är att låta person intresserade av speldesign fördjupa sina kunskaper. Vi kommer att spela en mängd roliga, intressanta och udda spel samt diskutera deras design. Fokus kommer att ligga på brädspel och kortspel, men även datorspel och rollspel kan komma med. Studiecirkeln kräver inga förkunskapskrav och man måste inte förbereda sig inför tillfällena. Allt material för att spela spelen kommer att finnas på plats.
+Speldesigncirkelns syfte är att låta person intresserade av speldesign fördjupa sina kunskaper inom detta område. Vi kommer att spela en mängd roliga, intressanta och udda spel samt diskutera deras design. Fokus kommer att ligga på brädspel och kortspel, men även datorspel och rollspel kan komma att behandlas. Studiecirkeln kräver inga förkunskapskrav och man måste inte förbereda sig inför tillfällena. Allt material för att spela spelen kommer att finnas på plats.
 
 * Mål
-Öka intresset och kunskapen kring speldesign. Låta deltagarna förbättra sina kunskaper om hur man skapar intressanta spelsystem.
+- Öka intresset och kunskapen kring speldesign.
+- Hjälpa deltagarna att förbättra sina färdigheter i att skapa intressanta spelsystem.
 
 * Praktisk info
 - Plats: Spelinkubatorn, Lindholmen (Polstjärnegatan 14, ingång från gatan)
 - Tid: Kl 18:30 - 21:00, måndagar.
 - Start: 12 september
 
-* Deltagaravgift
-För att 
+* Anmälan
+Maximalt deltagarantal för studiecirkeln är 11 personer + 1 ledare. Mejla erik.svedang@gmail.com med namn och telefonnummer om du vill vara med. Vid stort intresse kommer deltagarna att lottas fram.
+För att öka chansen att de som anmält sig till cirkeln dyker upp kommer vi att ha en anmälningsavgift på 100 kr. Denna avgift måste betalas vid det första tillfället (Swish eller kontant) annars går platsen till någon annan. Anmälningsavgiften kommer användas till kursmaterial samt fika.
 
 * Upplägg
 - Varje tillfälle börjar med en liten presentation av de spel vi ska studera (oftast 3 - 5 st)
-- Deltagarna delar upp sig och försöker hinna spela alla spel (de flesta kommer vara rätt korta)
+- Deltagarna delar upp sig och försöker hinna spela alla spel (de flesta kommer att vara rätt korta)
 - Mot slutet samlas vi och diskuterar våra upplevelser, styrkor/svagheter med spelen, etc, etc.
 
 * Planerade tillfällen
+Observera att de exakta spelen för varje tillfälle kan komma att ändras.
 
-** Ett halvt ark papper
+** 1. Ett halvt ark papper
 Spel som endast kräver papper och penna.
 
 - Sprouts
 - Cutting Corners
 - Hold that line
 
-** Kort, kort, kort
+** 2. Kort, kort, kort
 Ovanliga spel med en vanlig kortlek.
 
 - GOPS
 - Mate
 - Myre
 
-** Schackbräde utan Schack
+** 3. Schackbräde utan Schack
 Ett gäng underliga spel som spelas på 8 x 8 rutor.
 
 - Focus
@@ -42,51 +45,38 @@ Ett gäng underliga spel som spelas på 8 x 8 rutor.
 - Ironclad
 - Domain
 
-** För eremiten
-Brädspel och kortspel som spelas ensam, mot spelet.
-
-- Friday
-- Bowling Solitaire
-- Space Hulk: Death Angel
-
-** Digital kartong
-Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multiplayer på iPad (ej digitala portningar av befintliga spel).
-
-- Chesh
-- Glitch Tank
-
-** Asiatiska delikatesser
-- Koi-koi (Hanafudakort)
-- Mahjong
-- Go
-
-** Uråldrigheter
-Väldigt gamla spel.
-
-- Hnefatafl
-- Det kungliga spelet från Ur
-
-** Tärningsspel
-...som kräver skicklighet.
-
-- Qwixx
-- 10000
-- Liar's Dice
-- Decathlon
-
-** Göra stan
+** 4. Göra stan
 Spel som spelas med saker man hittar vid bardisken eller på restaurangbordet.
 
 - Flip!
 - Skulls
 - Hetsjakt
 
-** Parspel
-Co-op versus.
+** 5. Uråldrigheter
+Väldigt gamla spel.
 
-- Tichu
-- Bridge (kan få ett eget tillfälle)
-- Codenames
+- Hnefatafl
+- Det kungliga spelet från Ur
+
+** 6. Digital kartong
+Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multiplayer på iPad (ej digitala portningar av befintliga spel).
+
+- Chesh
+- Glitch Tank
+
+** 7. Asiatiska delikatesser
+- Koi-koi (Hanafudakort)
+- Mahjong
+- Go
+- Shogi (Japanskt schack)
+
+** 8. Tärningsspel
+...som kräver skicklighet.
+
+- Qwixx
+- 10000
+- Liar's Dice
+- Decathlon
 
 * Möjliga teman för framtiden
 Kom gärna med egna önskemål och idéer så försöker vi få till det!
@@ -100,3 +90,16 @@ Avantgardistiska textäventyr
 ** BYOG
 Ta med egna prototyper och experiment för speltest
 
+** Parspel
+Co-op versus.
+
+- Tichu
+- Bridge (kan få ett eget tillfälle)
+- Codenames
+
+** För eremiten
+Brädspel och kortspel som spelas ensam, mot spelet.
+
+- Friday
+- Bowling Solitaire
+- Space Hulk: Death Angel
