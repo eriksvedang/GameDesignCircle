@@ -103,3 +103,12 @@ Brädspel och kortspel som spelas ensam, mot spelet.
 - Friday
 - Bowling Solitaire
 - Space Hulk: Death Angel
+
+** Bluffspel
+Vem ska jag tro på, tro på, tro på när?
+
+- Resistance
+- Mafia
+- Coup
+- Saboteur
+- One Night Werewolf
