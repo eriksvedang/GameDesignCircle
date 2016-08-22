@@ -1,5 +1,5 @@
 * Beskrivning
-Speldesigncirkelns syfte är att låta person intresserade av speldesign fördjupa sina kunskaper inom detta område. Vi kommer att spela en mängd roliga, intressanta och udda spel samt diskutera deras design. Fokus kommer att ligga på brädspel och kortspel, men även datorspel och rollspel kan komma att behandlas. Studiecirkeln kräver inga förkunskapskrav och man måste inte förbereda sig inför tillfällena. Allt material för att spela spelen kommer att finnas på plats.
+Speldesigncirkelns syfte är att låta person intresserade av speldesign fördjupa sina kunskaper inom detta område. Vi kommer att spela en mängd roliga, intressanta och udda spel samt diskutera deras design. Fokus kommer att ligga på brädspel och kortspel men även datorspel och rollspel kan komma att behandlas. Studiecirkeln kräver inga förkunskapskrav och man måste inte förbereda sig inför tillfällena. Allt material för att spela spelen kommer att finnas på plats.
 
 * Mål
 - Öka intresset och kunskapen kring speldesign.
@@ -37,7 +37,7 @@ Ovanliga spel med en vanlig kortlek.
 - Myre
 
 ** 3. Schackbräde utan Schack
-Ett gäng underliga spel som spelas på 8 x 8 rutor.
+Ett gäng underliga spel som spelas på ungefär 8 x 8 rutor.
 
 - Focus
 - Lines of Action 
