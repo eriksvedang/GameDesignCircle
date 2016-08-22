@@ -30,6 +30,7 @@ Spel som endast kräver papper och penna.
 - Hold that line
 - Racetrack
 - Agression
+- Hex
 
 ** 2. Kort, kort, kort
 Ovanliga spel med en vanlig kortlek.
