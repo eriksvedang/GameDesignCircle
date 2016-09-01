@@ -47,6 +47,7 @@ Ett gäng underliga spel som spelas på ungefär 8 x 8 rutor.
 - Knight Chase
 - Ironclad
 - Domain
+- Conquest
 
 ** 4. Göra stan
 Spel som spelas med saker man hittar vid bardisken eller på restaurangbordet.
