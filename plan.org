@@ -31,6 +31,7 @@ Spel som endast kräver papper och penna.
 - Racetrack
 - Agression
 - Hex
+- Hackenbush
 
 ** 2. Kort, kort, kort
 Ovanliga spel med en vanlig kortlek.
