@@ -10,4 +10,5 @@
  * Spela
  * Återsamling och diskussion
  * Anmälningsavgift
+ * Dokumentation (foton, bloggposter)
 
