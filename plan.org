@@ -39,6 +39,7 @@ Ovanliga spel med en vanlig kortlek.
 - GOPS
 - Mate
 - Myre
+- Cribbage (?)
 
 ** 3. Schackbräde utan Schack
 Ett gäng underliga spel som spelas på ungefär 8 x 8 rutor.
@@ -50,18 +51,18 @@ Ett gäng underliga spel som spelas på ungefär 8 x 8 rutor.
 - Domain
 - Conquest
 
-** 4. Göra stan
+** 4. Uråldrigheter
+Väldigt gamla spel.
+
+- Hnefatafl
+- Det kungliga spelet från Ur
+
+** 5. Göra stan
 Spel som spelas med saker man hittar vid bardisken eller på restaurangbordet.
 
 - Flip!
 - Skulls
 - Hetsjakt
-
-** 5. Uråldrigheter
-Väldigt gamla spel.
-
-- Hnefatafl
-- Det kungliga spelet från Ur
 
 ** 6. Digital kartong
 Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multiplayer på iPad (ej digitala portningar av befintliga spel).
