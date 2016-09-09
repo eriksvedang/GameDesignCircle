@@ -72,6 +72,8 @@ Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multip
 - Chesh
 - Glitch Tank
 - Ten (http://tengame.info)
+- Psycards
+- What the shell
 
 ** 7. Asiatiska delikatesser
 - Koi-koi (Hanafudakort)
