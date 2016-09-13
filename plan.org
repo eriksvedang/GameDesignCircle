@@ -39,6 +39,7 @@ Ovanliga spel med en vanlig kortlek.
 - GOPS
 - Mate
 - Myre
+- Kort i pannan
 - Cribbage (?)
 
 ** 3. Schackbräde utan Schack
