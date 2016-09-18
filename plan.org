@@ -39,8 +39,9 @@ Ovanliga spel med en vanlig kortlek.
 - GOPS
 - Mate
 - Myre
-- Kort i pannan
-- Cribbage (?)
+- Cribbage
+- Auktionsgin
+- 
 
 ** 3. Schackbräde utan Schack
 Ett gäng underliga spel som spelas på ungefär 8 x 8 rutor.
@@ -75,6 +76,7 @@ Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multip
 - Ten (http://tengame.info)
 - Psycards
 - What the shell
+- Enyo ?
 
 ** 7. Asiatiska delikatesser
 - Koi-koi (Hanafudakort)
@@ -115,6 +117,7 @@ Brädspel och kortspel som spelas ensam, mot spelet.
 - Friday
 - Bowling Solitaire
 - Space Hulk: Death Angel
+- Arkham Horror the Card Game
 
 ** Bluffspel
 Vem ska jag tro på, tro på, tro på när?
@@ -124,6 +127,7 @@ Vem ska jag tro på, tro på, tro på när?
 - Coup
 - Saboteur
 - One Night Werewolf
+- Kort i pannan
 
 ** Backgammonfamiljen
 - Backgammon
