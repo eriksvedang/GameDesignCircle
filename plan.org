@@ -72,7 +72,13 @@ Väldigt gamla spel.
 - Senet
 - Mancala
 
-** 6. Digital kartong
+** Asiatiska delikatesser
+- Koi-koi (Hanafudakort)
+- Mahjong
+- Go
+- Shogi (Japanskt schack)
+
+** Digital kartong
 Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multiplayer på iPad (ej digitala portningar av befintliga spel).
 
 - Chesh
@@ -82,13 +88,7 @@ Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multip
 - What the shell
 - Enyo ?
 
-** 7. Asiatiska delikatesser
-- Koi-koi (Hanafudakort)
-- Mahjong
-- Go
-- Shogi (Japanskt schack)
-
-** 8. Tärningsspel
+** Tärningsspel
 ...som kräver skicklighet.
 
 - Qwixx
