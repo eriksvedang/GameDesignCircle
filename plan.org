@@ -72,29 +72,21 @@ Väldigt gamla spel.
 - Senet
 - Mancala
 
-** Asiatiska delikatesser
+** 6. Asiatiska delikatesser
 - Koi-koi (Hanafudakort)
 - Mahjong
 - Go
 - Shogi (Japanskt schack)
 
-** Digital kartong
-Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multiplayer på iPad (ej digitala portningar av befintliga spel).
+** 7. Parspel
+- Tichu
+- Canasta
+- Dog
+- Latin Dominos
+- Vector
 
-- Chesh
-- Glitch Tank
-- Ten (http://tengame.info)
-- Psycards
-- What the shell
-- Enyo ?
+** 8. BYOG
 
-** Tärningsspel
-...som kräver skicklighet.
-
-- Qwixx
-- 10000
-- Liar's Dice
-- Decathlon
 
 * Möjliga teman för framtiden
 Kom gärna med egna önskemål och idéer så försöker vi få till det!
@@ -132,3 +124,20 @@ Spel som spelas med saker man hittar vid bardisken eller på restaurangbordet.
 - Flip!
 - Skulls
 - Hetsjakt
+** Tärningsspel
+...som kräver skicklighet.
+
+- Qwixx
+- 10000
+- Liar's Dice
+- Decathlon
+
+** Digital kartong
+Vi tittar närmare på ett gäng brädspel designade specifikt för lokal multiplayer på iPad (ej digitala portningar av befintliga spel).
+
+- Chesh
+- Glitch Tank
+- Ten (http://tengame.info)
+- Psycards
+- What the shell
+- Enyo ?
