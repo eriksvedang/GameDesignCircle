@@ -82,8 +82,9 @@ Väldigt gamla spel.
 - Tichu
 - Canasta
 - Dog
-- Latin Dominos
+- Dominos (42)
 - Vector
+- Canasta (http://rummy.com/canasta.html)
 
 ** 8. BYOG
 
